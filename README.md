@@ -55,7 +55,7 @@ Defines the percentage of atoms to be tuned in the Hessian matrix in the "Hessia
 "Hessian engineering" step: defines the the values set to the Hessian matrix for the selected atoms.
 
 ===========================================================================
-![Uploading image.png…]()
+![HERO_logo.png]()
 
 
 Important notes:
@@ -67,4 +67,4 @@ https://www.li-lab-cat-design.com/
 The Website of the Yang Group (NCEPU):
 http://www.eesgroup-ncepu.cn/
 
-image
+
